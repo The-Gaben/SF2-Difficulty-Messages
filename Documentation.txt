@@ -1,0 +1,12 @@
+// =============================================================
+// 		DIFFICULTY MESSAGES
+// =============================================================
+
+// This subplugin adds the ability for bosses to say something upon a difficulty change.
+
+// -----------------------------------------------------------------------------------------------------------------------------------------------------
+// "difficulty_messages" - Boolean (0/1) - Enables the function.
+
+// "difficulty_message_namecolor" - String - Color of the boss' name in the message. Defaults to "red"
+// "difficulty_message_<difficulty>" - Random string - Messages the boss can say when the difficulty is switched.
+
